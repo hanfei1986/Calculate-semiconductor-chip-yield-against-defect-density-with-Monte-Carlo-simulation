@@ -1,5 +1,5 @@
 # Calculate-semiconductor-chip-yield-against-defect-density-with-Monte-Carlo-simulation
-aa
+Calculating semiconductor chip yield against defect density using a Monte Carlo simulation is a common approach to assess the impact of defects on chip manufacturing. In this simulation, we'll randomly generate defect locations and evaluate chip yield based on specified criteria.
 
 Generate point defects and unusable areas randomly:
 
